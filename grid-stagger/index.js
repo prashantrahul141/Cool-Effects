@@ -3,7 +3,7 @@ let columns = Math.floor(window.innerWidth / tileDimension);
 let rows = Math.floor(window.innerHeight / tileDimension);
 const wrapper = document.getElementById('wrapper');
 
-const colors = ['#fff275', '#ff8c42', '#ff3c38', '#a23e48', '#6c8ead'];
+const colors = ['#fff275', '#ff8c42', '#ff3c38', '#40e0d0', '#007fff'];
 let count = 0;
 
 // click event for tiles
